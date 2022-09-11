@@ -23,7 +23,7 @@ B.  create a python virtualenv and source it and run `make all`
 
 C. initialize new eb app
 
-`eb init -p python-3.7 flask-continuous-delivery --region us-east-1`
+`eb init -p python-3.7 flask-continuous-delivery --region eu-west-1`
 
 *Optional `eb init` again to create ssh keys*
 
